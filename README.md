@@ -1,4 +1,4 @@
-# Praava Hero — Floating Legal Platform UI
+# Praava Hero — Floating Platform UI
 
 A pixel-perfect recreation of a "Legal Work Platform" hero section, built as a frontend assignment. The goal was to replicate a Figma-style design in real code — with responsive layout, dark mode, and smooth animations.
 
